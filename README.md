@@ -9,4 +9,5 @@ software engineer materials for daspro laboratory.
 # Week 2 - Competitive Programming Preparations
 - Introduction about competitive programming
 - Migration from java to C++
-- Warm up : http://bit.do/LatihanCP
+- Warm up : https://www.hackerrank.com/contests/computing-competitive-programming-2018-contest/challenges
+- Exercise : http://bit.do/LatihanCP
